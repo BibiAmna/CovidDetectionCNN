@@ -150,7 +150,7 @@ with tabs[3]:
     - Get vaccinated.
     """)
     
-with tab[4]:
+with tabs[4]:
     st.subheader("Acknowledgment")
     st.write("This project was completed by Bibi Amna and Samavia Hussain Raja as part of their academic research.")
 
