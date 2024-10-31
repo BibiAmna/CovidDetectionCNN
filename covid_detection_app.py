@@ -38,7 +38,7 @@ st.markdown(f"""
     <style>
         .header {{
             background-image: url("data:image/jpeg;base64,{background_image}");
-            background-size: cover;
+            background-size: 100% 100%;
             # color: white;
             background-color: #fac0c0;
             display: flex;
