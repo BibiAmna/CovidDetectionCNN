@@ -1,4 +1,4 @@
 Acknowledgments
 
-This project was completed by Bibi Amna and Samavia Hussain as part of our academic research.
+This project was completed by Bibi Amna and Samavia Hussain Raja as part of their academic research.
 
