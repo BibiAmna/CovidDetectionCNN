@@ -149,6 +149,7 @@ with tabs[3]:
     - Avoid large gatherings.
     - Get vaccinated.
     """)
+    
 with tab[4]:
     st.subheader("Acknowledgment")
     st.write("This project was completed by Bibi Amna and Samavia Hussain Raja as part of their academic research.")
