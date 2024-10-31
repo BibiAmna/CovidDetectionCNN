@@ -26,7 +26,7 @@ def preprocess_image(image):
 st.set_page_config(page_title="COVID Detection from Chest X-Ray", layout="wide")
 
 # Load and encode the background image
-background_image_path = r"https://github.com/BibiAmna/CovidDetectionCNN/blob/f43125edea82e30399586cd14de3a18ebe9f5799/covid.jpeg"  # Change to your image path
+background_image_path = r"covid.jpeg"  # Change to your image path
 def get_base64_image(image_file):
     with open(image_file, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
