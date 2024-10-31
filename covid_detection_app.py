@@ -151,6 +151,6 @@ with tabs[3]:
     """)
 with tab[4]:
     st.subheader("Acknowledgment")
-    st.write("This project was completed by Bibi Amna and Samavia Hussain Raja as part of their academic research."
+    st.write("This project was completed by Bibi Amna and Samavia Hussain Raja as part of their academic research.")
 
 st.markdown('</div>', unsafe_allow_html=True)  # End content container
