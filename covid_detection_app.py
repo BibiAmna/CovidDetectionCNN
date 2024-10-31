@@ -68,7 +68,7 @@ st.markdown(
 )
 
 # Tabs for navigation
-tabs = st.tabs(["Instructions", "Symptoms", "Diagnosis Methods", "Prevention"])
+tabs = st.tabs(["Instructions", "Symptoms", "Diagnosis Methods", "Prevention", "Acknowledgment"])
 
 # Main content for each tab
 with tabs[0]:
@@ -149,5 +149,8 @@ with tabs[3]:
     - Avoid large gatherings.
     - Get vaccinated.
     """)
+with tab[4]:
+    st.subheader("Acknowledgment")
+    st.write("This project was completed by Bibi Amna and Samavia Hussain Raja as part of their academic research."
 
 st.markdown('</div>', unsafe_allow_html=True)  # End content container
